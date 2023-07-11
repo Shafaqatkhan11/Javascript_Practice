@@ -1,0 +1,17 @@
+// Online Javascript Editor for free
+// Write, Edit and Run your Javascript code using JS Online Compiler
+
+// console.log("Welcome to Programiz!");
+// var score=3;
+// var score=9;// redeclear and show first
+// var score=0;//now this show first
+// console.log(score)
+// const val=10;
+// let point;
+// console.log(point)
+// console.log(val)
+let hobbies="  coding eating sleeping"
+let result=hobbies.trim()
+console.log(hobbies.indexOf("coding"))
+console.log(result.indexOf('coding'))
+console.log(hobbies.includes('eating'))
